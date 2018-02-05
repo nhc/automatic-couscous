@@ -1,2 +1,2 @@
 # automatic-couscous
-Crypo tracker 
+Crypto tracker and graphing
